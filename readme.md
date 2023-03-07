@@ -1,4 +1,4 @@
-#USERS AND PRODUCTS API
+# USERS AND PRODUCTS API
 
 This REST API is built for fun  with Node JS, Express and Mongoose. It allows to register products and users.
 
